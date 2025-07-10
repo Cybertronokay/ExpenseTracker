@@ -1,3 +1,4 @@
+Expense Tracker 💰📊
 An expense tracker web application built using HTML, Tailwind CSS, and JavaScript. This app allows users to track their daily expenses, view monthly summaries, and download their expense data in CSV or Excel formats.
 
 Features ✨
